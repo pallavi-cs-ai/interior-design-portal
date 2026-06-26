@@ -55,7 +55,7 @@ InteriorData.json
 ## Screenshot
 
 <p align="center">
-  <img width="1536" height="1024" alt="ChatGPT Image Jun 27, 2026, 02_30_02 AM" src="https://github.com/user-attachments/assets/e98a8f5a-c869-4e41-ba06-324543b8caf8" />
+  <img width="1536" height="1024" alt="ChatGPT Image Jun 27, 2026, 02_34_04 AM" src="https://github.com/user-attachments/assets/48985ed9-d7da-4b92-8b04-60fe3d5d6da7" />
 </p>
 
 ---
